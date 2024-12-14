@@ -1,6 +1,5 @@
 
-The goal of this project is to predict what happens to chemical compounds when they interact with thehuman gut microbiome. In the gut, microbes break down and modify compounds through a series of
-chemical reactions, resulting in new molecules called metabolites. Understanding these changes is essential for drug development, assessing chemical safety, and personalized medicine. Our system will take in the chemical structure of a compound and predict the sequence of transformations it undergoes, identifying the most likely pathways and end products.
+The goal of this project is to predict what happens to chemical compounds when they interact with thehuman gut microbiome. In the gut, microbes break down and modify compounds through a series of chemical reactions, resulting in new molecules called metabolites. Understanding these changes is essential for drug development, assessing chemical safety, and personalized medicine. Our system will take in the chemical structure of a compound and predict the sequence of transformations it undergoes, identifying the most likely pathways and end products.
 
 Directory Organization:
 project.html: File contains all the output of our notebook
